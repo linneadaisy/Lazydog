@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+LATHUND
+# HTML, CSS & JavaScript
 
-You can use the [editor on GitHub](https://github.com/hellogirlse/Lazydog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## HTML 
+HyperText Markup Language
+``<!-- Så här skriver du en en kommentar i HTML -->``
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<!DOCTYPE html>
+<html>
+<head> <!-- START-TAGG -->
+	<title></title>
+</head> <!-- SLUT-TAGG -->
+<body>
+	<img /> <!-- SJÄLVSTÄNGANDE ELEMENT -->
+</body>
+</html>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## CSS
+Cascading Style Sheets
+`/* Så här skriver du en kommentar i CSS */`
+`// Detta fungerar också som enrads kommentar i CSS`
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellogirlse/Lazydog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## JavaScript
+`/* Så här skriver du en kommentar i JavaScript */`
+`// Detta fungerar också som enrads kommentar i JavaScript`
